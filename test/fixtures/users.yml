@@ -3,3 +3,9 @@ anthony:
  last_name: "liang"
  email: "liangtfm@gmail.com"
  profile_name: "liangtfm"
+
+ john:
+  first_name: "john"
+  last_name: "wu"
+  email: "bogardon@gmail.com"
+  profile_name: "bogardon"
